@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rafid Task</string>
+    <string name="splash_desc">GDSC Logo for splash screen</string>
+    <string name="gdsc">Rafid Books</string>
+    <string name="bbsbec">Developed By Shazalia Moawia</string>
+    <string name="search_book">Enter book title</string>
+    <string name="search_book_button">Search</string>
+    <string name="preview_book">Preview Book</string>
+    <string name="server_error_message">Something went wrong, please go back and search again</string>
+    <string name="back_button">Go Back</string>
+    <string name="book_name">Book Name</string>
+    <string name="publisher">Publisher</string>
+    <string name="open_book_wishlist">Open Book Wishlist</string>
+</resources>
